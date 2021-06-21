@@ -1,5 +1,5 @@
 ### Hi 👋
-I am recent engineering graduate in sistemas de informação, looking for opportunities and collabaration in projects related to Web Development.
+I am Luiz Eduardo, Developer Trainne at CompassoUOL. looking for opportunities and collabaration in projects related to Development.
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
